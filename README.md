@@ -1,7 +1,7 @@
 # full_stack_example
 - `$django-admin startproject full_stack`
 - cd into the full_stack
-- `$create-react-app react-query-builder', 'build')`
+- `$create-react-app react-query-builder'`
 - run `npm start` just to test it works
 - run `npm run build` to create the build folder (which contains all the compiled codes)
 - go back to the django directory and go to `settings.py` under full_stack
